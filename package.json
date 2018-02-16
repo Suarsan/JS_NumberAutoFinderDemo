@@ -1,0 +1,21 @@
+{
+  "name": "numberautofinder",
+  "version": "1.0.0",
+  "description": "Simple game that generate a random number and works to find it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Javier Suarez Sanchez",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^3.0.0",
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  },
+  "repository": {},
+  "keywords": []
+}
